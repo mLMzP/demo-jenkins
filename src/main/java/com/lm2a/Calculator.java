@@ -11,7 +11,7 @@ public class Calculator {
         return a - b; // Returns the difference of a and b
     }
 
-
+    // Method to multiply one number by another
     public int multiply(int a, int b) {
         return a * b; // Returns the difference of a and b
     }
