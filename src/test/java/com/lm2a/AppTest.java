@@ -25,4 +25,11 @@ public class AppTest {
         assertEquals(2, result);  // Verifies if 5 - 3 equals 2
     }
 
+    // Test for the subtract method
+    @Test
+    public void testMultiply() {
+        int result = calculator.multiply(5, 3); // Calls the subtract method
+        assertEquals(15, result);  // Verifies if 5 - 3 equals 2
+    }
+
 }
