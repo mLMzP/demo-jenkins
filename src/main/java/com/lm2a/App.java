@@ -1,0 +1,20 @@
+package com.lm2a;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main(String[] args) {
+        Calculator calculator = new Calculator();
+
+        // Example of adding two numbers
+        int sum = calculator.add(5, 3);
+        System.out.println("Sum of 5 and 3 is: " + sum);
+
+        // Example of subtracting two numbers
+        int difference = calculator.subtract(5, 3);
+        System.out.println("Difference of 5 and 3 is: " + difference);
+    }
+}
