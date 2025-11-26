@@ -32,4 +32,10 @@ public class AppTest {
         assertEquals(15, result);  // Verifies if 5 - 3 equals 2
     }
 
+    @Test
+    public void testDivide() {
+        float result = calculator.divide(6, 3);
+        assertEquals(2, result);
+    }
+
 }
