@@ -16,6 +16,7 @@ public class Calculator {
         return a * b; // Returns the difference of a and b
     }
 
+    //Method to divide
     public float divide(int a, int b) {
         return a / b;
     }
