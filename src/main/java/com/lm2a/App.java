@@ -2,7 +2,7 @@ package com.lm2a;
 
 /**
  * Esta es una app para probar Jenkins
- *
+ * Blabla
  */
 public class App 
 {
